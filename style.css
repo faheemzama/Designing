@@ -1,0 +1,92 @@
+* {
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+     font-family: sans-serif;
+     font-size: 16px;
+}
+
+.joc {
+    height: 34vh;
+    padding: 1.3rem;
+    background-color: white;
+
+}
+
+.joc-text {
+    color: rgb(53,147,144);
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-bottom: 1rem;
+}
+
+.hassie-free-text {
+    color: rgb(192,226,42);
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+}
+
+.joc-desc {
+    color: grey;
+    line-height: 22px;
+}
+
+.ms {
+    height: 33vh;
+    padding: 1.3rem;
+    background-color: rgb(42,180,177);
+
+}
+
+.ms-text {
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-bottom: 1rem;
+}
+
+.ms-per-month {
+    color: white;
+    margin-bottom: 1rem;
+}
+
+.size {
+    font-size: 30px;
+}
+
+.ms-full {
+    color: white;
+    margin-bottom: 2rem;
+}
+
+.ms-button {
+    background-color: yellow;
+    color: white;
+    padding: 15px;
+    margin: 10ox;
+    width: 80%;
+    font-weight: bold;
+    
+}
+    
+.wu {
+    height: 33vh;
+    padding: 1.3rem;
+    background-color: rgb(73,189,189);
+}
+
+.wu-text {
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-bottom: 1rem;
+}
+
+.wu-Tuto {
+    color: white;
+    line-height: 45px;
+}
